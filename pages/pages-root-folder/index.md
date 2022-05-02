@@ -11,17 +11,18 @@ layout: frontpage
 widget1:
   title: "Stable Supply Capacity"
   # url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
+  image: 302-182-001.jpg
   text: 'Our own plantations make our supply capacity very stable. Available for retail or wholesale in bulk'
 widget2:
   title: "Competitive Price"
   # url: 'http://phlow.github.io/feeling-responsive/info/'
+  image: 302-182-002.jpg
   text: 'We are the source of the supply chain, there is no price difference between middlemen, making your products more competitive'
   # video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Excellent Service"
   # url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
+  image: 302-182-003.jpg
   text: 'Whether it is a small customer or a large customer, we treat all customers equally and provide high-quality services'
 #
 # Use the call for action to show a button on the frontpage
