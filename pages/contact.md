@@ -15,8 +15,13 @@ Phone : +8613924271047
 
 Address : No.8 Liaohu Road, Liaobu Town, Dongguan City, Guangdong Province, China, 523400
 <!-- google map 开始-->
-
+<div>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.2180497938157!2d113.89679431535372!3d22.979007923720292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34039d98c14dbc11%3A0xe95a6af9eb92e98a!2sLiaohu%20Road!5e0!3m2!1sen!2s!4v1651379913347!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+div>
+<div>
+  <iframe width="100%" height="450px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[{{ site.google_map }}](https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.2180497938157!2d113.89679431535372!3d22.979007923720292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34039d98c14dbc11%3A0xe95a6af9eb92e98a!2sLiaohu%20Road!5e0!3m2!1sen!2s!4v1651379913347!5m2!1sen!2s)"></iframe>
+  <br />
+</div>
 
 <!-- google map 结束-->
 
