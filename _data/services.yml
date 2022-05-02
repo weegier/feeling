@@ -1,17 +1,27 @@
 - menu_name: "Services"
 
-- name: "Contact"
+- name: "获取最新的价格表"
   url: "/contact/"
   title: "Contact"
 
-- name: "RSS"
-  url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+- name: "购买样品"
+  url: "/buy-sample/"
+  title: "Buy-Sample"
 
-- name: "Atom"
-  url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
+# - menu_name: "Services"
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+# - name: "Contact"
+#   url: "/contact/"
+#   title: "Contact"
+
+# - name: "RSS"
+#   url: "/feed.xml"
+#   title: "Subscribe to RSS Feed"
+
+# - name: "Atom"
+#   url: "/atom.xml"
+#   title: "Subscribe to Atom Feed"
+
+# - name: "sitemap.xml"
+#   url: "/sitemap.xml"
+#   title: "Sitemap for Google Webmaster Tools"

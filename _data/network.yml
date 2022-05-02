@@ -1,21 +1,38 @@
-- menu_name: "Dankeschön"
+- menu_name: "CONTACT"
+# - name: "-- E-mail : team@agarwoodessentialoils.com"
+  # url: "mailto:team@agarwoodessentialoils.com"
+  # class: "services-newsletter"
+  # title: "E-mail"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
-
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
+- name: "WhatsApp : +8613924271047"
+  url: "https://wa.me/8613924271047"
   class: "services-newsletter"
-  title: "Built on Foundation"
+  title: "WhatsApp"
 
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
-  class: "rss-link"
-  title: "Images by Unsplash"
+- name: "More Contact Information"
+  url: "/contact/"
+  title: "Contact Us"
 
-- name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
-  class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+
+
+# - menu_name: "Dankeschön"
+
+# - name: "Icons by Daniel Bruce"
+#   url: "http://entypo.com/"
+#   class: "network-entypo"
+#   title: "Icons by Daniel Bruce"
+
+# - name: "Built on Foundation"
+#   url: "http://foundation.zurb.com/"
+#   class: "services-newsletter"
+#   title: "Built on Foundation"
+
+# - name: "Images by Unsplash"
+#   url: "http://unsplash.com/"
+#   class: "rss-link"
+#   title: "Images by Unsplash"
+
+# - name: "Using Backstretch by Scott Robbin"
+#   url: "http://srobbin.com/jquery-plugins/backstretch/"
+#   class: "sitemap-link"
+#   title: "Using Backstretch by Scott Robbin"
